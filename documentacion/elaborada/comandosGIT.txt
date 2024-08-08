@@ -4,4 +4,9 @@ comando basicos
 git status - estado de situacion
 git add . // agrega todo
 git commit -m "comentario" //agrego al repositorio local
+
+$ git config --global user.name "John Doe"
+$ git config --global user.email johndoe@example.com
+
+
 git push -uf origin main //lo sube a la nube en forma forzada
