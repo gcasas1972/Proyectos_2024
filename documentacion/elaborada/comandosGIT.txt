@@ -1,0 +1,7 @@
+comando basicos
+-----------------
+
+git status - estado de situacion
+git add . // agrega todo
+git commit -m "comentario" //agrego al repositorio local
+git push -uf origin main //lo sube a la nube en forma forzada
